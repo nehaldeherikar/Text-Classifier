@@ -7,3 +7,5 @@ Method - Natural Language Processing using BlazingText
 Description - Trained a Text Classifier using SageMaker BlazingText (built-in algorithm) to predict the
 sentiment for each customer review. A highly optimized and scalable implementation of the popular FastText
 algorithm. BlazingText is a variant of FastText which is based on word2vec.
+
+This Project is part of Practical Data Science Specialization offered by AWS & DeepLearning.AI on Coursera
